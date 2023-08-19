@@ -1,0 +1,11 @@
+szx.microsoft.com 86400 IN A 192.168.3.1
+hxy.ietf.org 86400 IN A 192.168.3.2
+microsoft.com 86400 IN A 192.168.3.3
+smx.microsoft.com 86400 IN A 192.168.3.5
+mail.zxs.microsoft.com 86400 IN A 192.168.3.7
+mail.yxh.ietf.org 86400 IN A 192.168.3.16
+hhh.microsoft.com 86400 IN CNAME cname.corg.xxx
+sss.ietf.org 86400 IN CNAME cname.corg.xxx
+zxs.microsoft.com 86400 IN MX mail.zxs.microsoft.com
+yxh.ietf.org 86400 IN MX mail.yxh.ietf.org
+

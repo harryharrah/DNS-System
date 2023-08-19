@@ -1,0 +1,10 @@
+szx.edu.cn 86400 IN A 192.168.14.1
+hxy.edu.cn 86400 IN A 192.168.14.2
+smx.edu.cn 86400 IN A 192.168.14.5
+mail.zxs.edu.cn 86400 IN A 192.168.14.7
+mail.yxh.edu.cn 86400 IN A 192.168.14.16
+hhh.edu.cn 86400 IN CNAME cname.hhh.xxx
+sss.edu.cn 86400 IN CNAME cname.sss.xxx
+zxs.edu.cn 86400 IN MX mail.zxs.edu.cn
+yxh.edu.cn 86400 IN MX mail.yxh.edu.cn
+

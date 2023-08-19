@@ -1,0 +1,2 @@
+200.201.202.203.in-addr.arpa 86400 IN PTR szx.hxy.shiyan
+124.134.156.187.in-addr.arpa 86400 IN PTR yzy.dns.shiyan

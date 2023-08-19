@@ -1,0 +1,9 @@
+szx.gov.us 86400 IN A 192.168.25.1
+hxy.gov.us 86400 IN A 192.168.25.2
+smx.gov.us 86400 IN A 192.168.25.5
+mail.zxs.gov.us 86400 IN A 192.168.25.7
+mail.yxh.gov.us 86400 IN A 192.168.25.16
+hhh.gov.us 86400 IN CNAME cname.gov.xxx
+sss.gov.us 86400 IN CNAME cname.gov.xxx
+zxs.gov.us 86400 IN MX mail.zxs.gov.us
+yxh.gov.us 86400 IN MX mail.yxh.gov.us
